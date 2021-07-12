@@ -1,0 +1,43 @@
+suicides estimator
+..........................
+* What I want?
+To detect if there is any interventions that can be done to prevent suicides.
+* How can this be done?
+
+-> Available data: 
+
+1. data of suicides in year 2016 with health facilities and human resources
+What we can get from it:
+- availability for mental health care among different countries
+- the distribution of male and female suicides among countries 
+2. data of different causes of death / suicide deaths
+- a comparison between the differnt causes of death among countries in the last 20 years
+3. Happiness report
+- shows the rank of happiness to different countries and related factors(gdp- family- economy- freedom..etc)
+ 4. master dataset
+ - suicides numbers genderdized from year 1985-2016 based on different factors.
+ ................................................................................................
+ 
+ -> The final product:
+
+ 1. Analysis combining the first 3 datasets
+ 2.This will be splitted into 2 parts:
+ 1st part: For general mental health organizations. 
+ 2.1we can compile a dataset from country, sex, age range & happiness index to build a model to predict the suicide rates.
+ 2.2 we can add "know more about possible causes" which could show statistically according to the country which was choosen; the detail of the happiness index, human resources & facilities. And show according to category(categorizing can be done by calculating each value specified in the happiness index labels retrieved to a scale[search for arithmetic scale for each label]) of (bad, not a problem, good) the low things of labels of happiness index as a possible causes for this suicide rate.
+ 2.2.1 If there is no bad or not a problem in explaining then a msg is shown telling that: "These suicides may be caused of depression or failure on the personals’ lives" 
+ 2nd part: For individuals health
+ 2.3 Providing a test to make sure about customers’ mental health and the possibilty to commit suicide.
+ 2.3.1 Showing a score for mental health. If there is a danger, offer help by:
+ a)go on an immediate help-line: https://findahelpline.com/i/iasp
+ b) going on an "long-termeffective prevention schedule: https://www.sprc.org/effective-suicide-prevention [road-map]"
+ 3. More about mental health [Tap]: https://screening.mhanational.org/mental-health-101/ 
+ ............................................................................................................
+
+ -> Procedure of work:
+ -We need to peovide 3 objects at the end of the project:
+ 1. Practical project.
+ 2. Documnetation.
+ 3. Presentation.
+
+ - We wiمl work on the 3 elements simultaneously step by step while going forward and back modifying on each step. 

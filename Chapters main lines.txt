@@ -1,0 +1,21 @@
+Chapters Main lines
+...........................................
+Ch.3 Product requirements
+ch.4 Software design & architecture
+4.1 DFD diagrams
+4.2 UML use-case diagrams
+4.3 UML Sequential diagrams
+4.4 UML Class diagrams 
+ch.5 UX design documentation
+5.1 Sitemaps
+5.2 Wireframes
+5.3 Mock-ups
+ch.6 Source-code documentation
+6.1 Web (Design & frameworks)
+6.2 Analysis & Model building
+Ch.7
+Implementation & testing
+ch.8 
+Expectations and future work
+ch.9
+Resources
