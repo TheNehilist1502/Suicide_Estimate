@@ -484,10 +484,11 @@
                     </div>
                    
                     <div class="form-group">
-                        <button type="submit"  class="form-control-submit-button">Show Results</button>
+                        <button id ="btn" type="submit"  class="form-control-submit-button">Show Results</button>
                     </div>
+                    {% if result %}
 				<p style="font-size: 20px;text-align: center;margin-top: 25px;">Expected suicide rate is: {{result}} </p>
-                   
+                   {% endif %}
                 </form>
                 <!-- end of call me form -->
                 
